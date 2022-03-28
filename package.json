@@ -20,7 +20,7 @@
     "@types/react-dom": "^17.0.9",
     "@types/react-router-dom": "^5.3.0",
     "@types/react-transition-group": "^4.4.3",
-    "@types/validator": "^13.6.3",
+    "@types/validator": "^13.7.2",
     "@types/webpack-env": "^1.16.2",
     "antd": "4.16.13",
     "autoprefixer": "^9",
